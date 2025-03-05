@@ -22,8 +22,5 @@ public class BubbleSortingJava {
         for(int num :nums){
             System.out.print(num + " ");
         }
-
-
-
     }
 }

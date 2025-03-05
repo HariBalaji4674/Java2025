@@ -39,5 +39,12 @@ What is collection:
 
 #### Need of Interface:
 
-#### What is enem:
+#### What is enum: 
+- ```Constants Class```
+
+
+#### Maven 
+- Project Management Tool
+- External Libraries to work on multiple things
+- A tool which helps to compile build management run etc
 - 
