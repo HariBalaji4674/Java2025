@@ -47,4 +47,26 @@ What is collection:
 - Project Management Tool
 - External Libraries to work on multiple things
 - A tool which helps to compile build management run etc
+- Every Project will go for GAV - GroupID Artifact ID Version Number
+- pom.xml used to download all relevant jar files
+- Maven Archetypes
+
+#### How Maven Works
+- Search file in local --> .m2 folder
+- Company-wide repository
+- 
+
+#### JDBC Connectivity
+- Store Data permanently somewhere in databases (Relational Database Memory Management Systems)
+- SQL --> Structured Query Language
+- It's an API Gives Features to connect Postgres
+  - Import the packages 
+  - import java.sql
+  - load drivers
+  - register driver
+  - create connection
+  - create statement
+  - Execute Statement
+  - Close the connection
+- 
 - 
