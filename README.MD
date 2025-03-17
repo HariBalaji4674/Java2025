@@ -68,5 +68,9 @@ What is collection:
   - create statement
   - Execute Statement
   - Close the connection
+- Password for MySql DB is : hari1234
+
+### Kafka Notes:
+
 - 
 - 
